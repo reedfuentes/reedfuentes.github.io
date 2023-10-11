@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+![ReedLogo](/assets/images/reedcom.jpg)
