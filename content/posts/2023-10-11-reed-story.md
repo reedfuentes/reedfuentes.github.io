@@ -1,3 +1,8 @@
+---
+title: "reed goes fishing"
+date: 2023-10-11
+---
+
 reed goes fishing
 
 reed loves fishing

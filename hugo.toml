@@ -1,0 +1,33 @@
+baseURL = "https://www.reedfuent.es/"
+languageCode = "en-us"
+title = "Reed's Page"
+theme = "PaperMod"
+
+[params]
+  author = "Reed"
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = false
+  ShowToc = false
+
+[params.profileMode]
+  enabled = false
+
+[params.homeInfoParams]
+  Title = "Reed's Page"
+  Content = "Welcome!"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/reedfuentes"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
